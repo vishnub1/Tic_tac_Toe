@@ -23,8 +23,8 @@
     <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/tic-tac-toe-javafx.git
-cd tic-tac-toe-javafx
+<pre><code>git clone https://github.com/vishnub1/Tic_tac_Toe.git
+cd Tic_tac_Toe 
 </code></pre>
 
 <ol start="2">
